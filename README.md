@@ -1,5 +1,7 @@
 # Math-app
-# A math game that can be used to help children learn math
+A math game that can be used to help children learn math
+
+
 
 var playing = false;
 var score; 
